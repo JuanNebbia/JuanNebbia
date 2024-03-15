@@ -9,12 +9,12 @@ Currently I lean more towards backend development, although I also develop front
 
 Checkout my personal portfolio to see my projects!
 
-My network:
+### My network:
 - 🌐 [Portfolio](https://juannebbia.com.ar) 
 - 💼 [LinkedIn](https://linkedin.com/in/juan-nebbia) 
 - 📧 juan.nebbia@gmail.com
 
-My stack_
+### My stack:
 - HTML/CSS/JS
 - Bootstrap
 - Typescript
